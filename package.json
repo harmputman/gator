@@ -20,7 +20,13 @@
   "homepage": "https://github.com/harmputman/gator#readme",
   "devDependencies": {
     "@types/node": "^25.5.0",
+    "drizzle-kit": "^0.31.10",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.1",
+    "fast-xml-parser": "^5.5.9",
+    "postgres": "^3.4.8"
   }
 }

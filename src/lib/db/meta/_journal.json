@@ -8,6 +8,13 @@
       "when": 1774425111989,
       "tag": "0000_chilly_doorman",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1774524662939,
+      "tag": "0001_curved_randall",
+      "breakpoints": true
     }
   ]
 }

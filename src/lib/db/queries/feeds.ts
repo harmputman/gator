@@ -11,3 +11,7 @@ export async function createFeed(name: string, url: string, user: User) {
 export async function resetFeeds() {
     await db.delete(feeds).returning();
 }
+
+export async function getFeeds() {
+    return await db.select().from(feeds);
+}

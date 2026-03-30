@@ -15,6 +15,13 @@
       "when": 1774524662939,
       "tag": "0001_curved_randall",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1774860381665,
+      "tag": "0002_chunky_randall_flagg",
+      "breakpoints": true
     }
   ]
 }
